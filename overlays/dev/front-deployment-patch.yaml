@@ -5,6 +5,7 @@ metadata:
   namespace: argo
   labels:
     env: dev
+    duck: test
 spec:
   selector:
     matchLabels:
