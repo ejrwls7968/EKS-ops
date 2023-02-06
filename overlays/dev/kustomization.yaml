@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 311724524637.dkr.ecr.ap-northeast-2.amazonaws.com/argo-front
   newName: 311724524637.dkr.ecr.ap-northeast-2.amazonaws.com/argo-front
-  newTag: abcdefg
+  newTag: 0783b4f3
 resources:
 - ../../base
 patchesStrategicMerge:
